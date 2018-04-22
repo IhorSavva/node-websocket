@@ -1,0 +1,16 @@
+{
+  "name": "websocket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zhuwenbo <472647301@qq.com>",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "koa": "^2.5.0",
+    "socket.io": "^2.1.0"
+  }
+}
