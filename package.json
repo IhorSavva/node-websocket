@@ -9,8 +9,7 @@
   "author": "zhuwenbo <472647301@qq.com>",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.18.0",
     "koa": "^2.5.0",
-    "socket.io": "^2.1.0"
+    "ws": "^4.1.0"
   }
 }
